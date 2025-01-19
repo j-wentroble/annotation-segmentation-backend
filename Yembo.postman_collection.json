@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "2398cd29-4512-4dcb-a736-7ea00e1b286b",
+		"name": "Yembo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39350043"
+	},
+	"item": [
+		{
+			"name": "Save an Annotation",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve Annotations",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Ranked Annotations",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
